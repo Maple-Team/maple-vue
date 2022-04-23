@@ -1,3 +1,5 @@
+import { Sub } from "./type";
+
 export default class Dep {
   subs: Sub[];
   constructor() {

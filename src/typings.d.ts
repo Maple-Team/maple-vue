@@ -1,3 +1,3 @@
 interface Window {
-  target: Sub;
+  target?: Sub;
 }
