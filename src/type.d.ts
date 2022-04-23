@@ -1,0 +1,3 @@
+interface Sub {
+  update(): Function;
+}
